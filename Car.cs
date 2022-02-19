@@ -16,14 +16,11 @@ namespace ExampleCarRepo
             Console.WriteLine(this.name + " goes brrr");
         }
 
-        public void crashCar()
+        public void carSpeed()
         {
-            Console.WriteLine("Your " + this.name + " crashed in a tree");
-        }
-
-        public void tyrePuncture()
-        {
-            Console.WriteLine(this.name + " punctured a tyre");
+            {
+                Console.WriteLine("Your car is going " + this.maxSpeed + " kmph");
+            }
         }
     }
 }
