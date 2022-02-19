@@ -16,5 +16,9 @@ namespace ExampleCarRepo
             Console.WriteLine(this.name + " goes brrr");
         }
 
+        public void crashCar()
+        {
+            Console.WriteLine("Your " + this.name + " crashed in a tree");
+        }
     }
 }
