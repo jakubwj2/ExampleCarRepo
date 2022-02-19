@@ -10,5 +10,11 @@ namespace ExampleCarRepo
             this.name = name;
             this.maxSpeed = maxSpeed;
         }
+
+        public void startCar()
+        {
+            Console.WriteLine(this.name + " goes brrr");
+        }
+
     }
 }
