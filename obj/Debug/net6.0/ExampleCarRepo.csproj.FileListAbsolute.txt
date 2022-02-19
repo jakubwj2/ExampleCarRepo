@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\bin\Debug\net6.0\ExampleCarRepo.exe
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\bin\Debug\net6.0\ExampleCarRepo.deps.json
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\bin\Debug\net6.0\ExampleCarRepo.runtimeconfig.json
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\bin\Debug\net6.0\ExampleCarRepo.dll
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\bin\Debug\net6.0\ExampleCarRepo.pdb
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.dll
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\refint\ExampleCarRepo.dll
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.pdb
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ExampleCarRepo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Projects\ExampleCarRepo\obj\Debug\net6.0\ref\ExampleCarRepo.dll
