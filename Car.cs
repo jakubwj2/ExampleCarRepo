@@ -16,5 +16,11 @@ namespace ExampleCarRepo
             Console.WriteLine(this.name + " goes brrr");
         }
 
+        public void carSpeed()
+        {
+            {
+                Console.WriteLine("Your car is going " + this.maxSpeed + " kmph");
+            }
+        }
     }
 }
